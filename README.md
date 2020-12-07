@@ -1,10 +1,10 @@
-# test_score
+# Add Candidate and Test Score 
 
 ## Run npm install
 
 ## For Adding Cndidate
-## Post Api
 
+Post Api
 Url => http://localhost:8080/api/CreateCandidate
 
 Payload => {
@@ -15,8 +15,8 @@ Payload => {
 
 
 ## For adding candidates run 
-## Post Api
 
+Post Api
 Url => http://localhost:8080/api/CreateCandidateScore
 
 payload => {
@@ -28,21 +28,21 @@ payload => {
 
 
 ## For get average score of 1st round
-## Get Api
 
+Get Api
 Url => http://localhost:8080/api/score/1
 
 ## For get average score of 2nd round
-## Get Api
 
+Get Api
 Url => http://localhost:8080/api/score/2
 
 ## For get average score of 3rd round
-## Get Api
 
+Get Api
 Url => http://localhost:8080/api/score/3
 
 ## Get candidate who get highest marks in all round
-## Get Api
 
+Get Api
 url => http://localhost:8080/api
