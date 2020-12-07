@@ -2,7 +2,11 @@
 
 ## Run npm install
 
-## For Adding Cndidate
+## run "node server.js or nodemon server.js to start" app
+
+App is running on port 8080
+
+## For Adding Candidate
 
 Post Api
 Url => http://localhost:8080/api/CreateCandidate
