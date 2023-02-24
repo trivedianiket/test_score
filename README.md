@@ -12,9 +12,9 @@ Post Api
 Url => http://localhost:8080/api/CreateCandidate
 
 Payload => {
-                "name":"xyz",
+                "name":"Test",
                 "email": "xyz@gmail.com",
-                "address":"xyz"
+                "address":"Lucknow"
             }
 
 
